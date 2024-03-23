@@ -4,13 +4,13 @@ url : "https://naye0ng.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Yash Jha
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
+    username : Yash Jha
     description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
     experience :
       - start : 2017-05-03
